@@ -1,0 +1,2 @@
+# ServerStatus
+一个Minecraft服务器状态显示的简单插件
