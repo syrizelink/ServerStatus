@@ -1,0 +1,8 @@
+name: ServerStatus
+main: syrize.SystemStatus.Main
+version: 1.1-Alpha
+api-version: 1.19
+commands:
+  status:
+    description: none
+    usage: /<command>
